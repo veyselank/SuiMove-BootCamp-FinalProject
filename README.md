@@ -1,4 +1,4 @@
-## Web3 Passport Project
+## SUI Passport
 
 # Overview
 
