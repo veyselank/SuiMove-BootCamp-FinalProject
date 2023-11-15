@@ -57,7 +57,10 @@ If you want other people to contribute to this project, this is the section, mak
 ### :notebook: Pre-Requisites
 List all the pre-requisites the system needs to develop this project.
 - Install Sui to Build ([Sui Docs](https://docs.sui.io/guides/developer/getting-started/sui-install))
-- B tool
+- Download VS Code move-analyzer extension [here](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer)
+- Add compatibility to move-analyzer for Sui style wallet addresses:
+  
+  **`cargo install --git https://github.com/move-language/move move-analyzer --features "address20"`**
 
 ###  :nut_and_bolt: Development Environment
 Write about setting up the working environment for your project.
