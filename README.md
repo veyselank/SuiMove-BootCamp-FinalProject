@@ -1,7 +1,16 @@
-# Introduction
-- Add your project logo.
-- Write a short introduction to the project.
-- If you are using badges, add them here.
+## Web3 Passport Project
+
+# Overview
+
+The Web3 Passport Project is an innovative smart contract application built on the Move on Sui blockchain. It aims to revolutionize user authentication and human verification in the Web3 space. By leveraging the power of blockchain technology, this project introduces a unique method of verifying users' identities and credentials through a system of digital badges.
+
+# Key Features:
+🪙 Badge Collection System: Users can earn badges by completing various tasks such as undergoing KYC (Know Your Customer) processes, connecting social media accounts (like Discord), participating in community events, and more.
+
+🪪 Enhanced User Authentication: The Web3 Passport serves as a reliable and secure method of user authentication, leveraging blockchain's inherent security features.
+
+🤖 Human Verification: By accumulating badges, users prove their authenticity, reducing the likelihood of fraudulent activities and bots.
+Devnet Contract Address
 
 ## :ledger: Index
 
@@ -47,7 +56,7 @@ If you want other people to contribute to this project, this is the section, mak
 
 ### :notebook: Pre-Requisites
 List all the pre-requisites the system needs to develop this project.
-- A tool
+- Install Sui to Build ([Sui Docs](https://docs.sui.io/guides/developer/getting-started/sui-install))
 - B tool
 
 ###  :nut_and_bolt: Development Environment
