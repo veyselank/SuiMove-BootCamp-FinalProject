@@ -61,6 +61,7 @@ List all the pre-requisites the system needs to develop this project.
 - Add compatibility to move-analyzer for Sui style wallet addresses:
   
   **`cargo install --git https://github.com/move-language/move move-analyzer --features "address20"`**
+- For comprehensive tutorial about move-analyzer with Sui checkout this [documentation](https://blog.sui.io/move-analyzer-tutorial/)
 
 ###  :nut_and_bolt: Development Environment
 Write about setting up the working environment for your project.
