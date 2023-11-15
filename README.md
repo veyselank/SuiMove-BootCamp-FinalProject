@@ -103,7 +103,7 @@ Add a file structure here with the basic details about files, below is an exampl
 | 1  | index | Entry point
 
 ###  :hammer: Build
-Write the build Instruction here.
+Run the command **`sui move build`**
 
 ### :rocket: Deployment
 Write the deployment instruction here.
